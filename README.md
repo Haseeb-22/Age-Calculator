@@ -17,9 +17,13 @@ An interactive Age Calculator built using **HTML**, **Tailwind CSS**, and **Java
 1. Clone the repository:
    ```bash
    git clone https://github.com/Haseeb-22/Age-Calculator.git
-
-## Live Demo
+Live Demo
 You can try the Age Calculator live here: Age Calculator Live Demo
+
+arduino
+Copy code
+
+Now, when users click on "Age Calculator Live Demo," it will open the live demo in a new tab
 
 
 
